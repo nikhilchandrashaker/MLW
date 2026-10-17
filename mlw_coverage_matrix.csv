@@ -1,0 +1,16 @@
+category,coverage,confidence,status
+League history,2009–2026,High,"Founding, seasons, major milestones, championship history"
+World Series,2010–2025,High,All champions/runners-up/series results; MVP explicitly available for 2022–2025
+Division champions,2017–2024,High,AL/NL champions from official historical archive
+Perfect games,2010–2026,High,Official list / official schedule evidence
+Teams/franchises,Historical + current,Medium,Core franchises and major historical teams verified; franchise-by-franchise tenure needs archival roster reconstruction
+Players,2010–2026,Medium,Verified player index from retrieved stats/history; not yet a complete archival roster census
+Season batting stats,"2017, 2026",Medium,Full tables retrieved for these seasons; official site says data exists back to 2010
+Season pitching stats,"2017, 2026",Medium,Official stats pages expose pitching; full historical extraction remains to be completed
+Individual games/box scores,Modern/current,Medium,Official schedule exposes detailed box scores; older seasons need systematic archival extraction
+Playoff game-by-game,2010–2025,Medium,Series results and narratives verified; individual game score/stat extraction remains archival work
+All-Star/Home Run Derby,2026 + historical references,Medium,17th annual event verified in 2026; complete historical participant/result table needs extraction
+Public tournaments,2017–2022+,Medium/High,Major MLW-run tournament champions and some external event results captured
+Venues,2010–2026,High,Major home and stadium venues captured
+Media/recognition,2018–2026,High,Major documented appearances/features captured
+Awards beyond WS MVP,Historical,Low/Medium,Requires dedicated award archive extraction; not guessed
